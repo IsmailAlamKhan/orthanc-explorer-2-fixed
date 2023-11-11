@@ -1,4 +1,4 @@
-# Orthanc Explorer 2
+# Orthanc Explorer 2 Fixed
 
 This [Orthanc](https://www.orthanc-server.com) plugin implements a new 
 user interface for Orthanc to replace the Orthanc Explorer.
